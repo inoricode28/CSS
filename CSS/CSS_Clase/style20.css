@@ -1,0 +1,11 @@
+*,
+*:before
+
+
+
+.caja{
+  width: 276px;
+  height: 176px;
+  border: 2px solid red;
+    padding: 10px;
+}
